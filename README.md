@@ -16,7 +16,7 @@ Stack and technologies:
 * Axios
 
 The website's UI can be seen in the Pupson's bay screenshot folder.
-Here a sample screenshot of the site:
+Here is a sample screenshot of the site:
 
 <img src="Pupson's bay screenshots/screencapture-localhost-3000-search-category-all-color-all-brand-all-keyword-all-order-lowest-min-0-max-1000000-rate-0-page-2-2021-01-11-16_45_10.png" width="100%">
 
