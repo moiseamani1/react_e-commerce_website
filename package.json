@@ -1,0 +1,32 @@
+{
+  "name": "react_e-commerce_website",
+  "version": "1.0.0",
+  "description": "demo dog clothing store",
+  "proxy": "http://127.0.0.1:5000",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch back-end --exec babel-node back-end/server.js"
+  },
+  "author": "Moise",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-handler": "^1.1.4",
+    "firebase": "^8.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.8",
+    "nodemailer": "^6.4.15"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "nodemon": "^2.0.4"
+  }
+}
