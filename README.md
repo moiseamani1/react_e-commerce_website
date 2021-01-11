@@ -1,4 +1,4 @@
-# react_e-commerce_website
+# PUPSON'S BAY website
 
 
 As a personal and fun project, I implemented an 18 page e-commerce website (puppy clothing) from scratch.
